@@ -145,7 +145,8 @@ Students will evaluate their own progressed in a course in three ways: 1) A cour
 ### Required Materials
 * Exploring Arduino: Tools and Techniques for Engineering Wizardry by Jeremy Blum (most recent edition)
 * Arduino Cookbook by Michael Margolis (most recent edition)
-* [Physical Computing Kit with the Arduino](https://www.adafruit.com/wishlists?wid=409877) 
+* [Electronic Supplies](https://www.adafruit.com/wishlists?wid=455181) 
+* [Physical Computing Kit with the Arduino](https://www.amazon.com/Arduino-Ultimate-Starter-Module-Instruction/dp/B00HI0RYJK/ref=pd_lpo_vtph_147_tr_t_2?_encoding=UTF8&psc=1&refRID=513KK9W604XNSCBGKBMA)  Other sources include [this kit](https://www.adafruit.com/product/3588), or [this kit](https://www.adafruit.com/product/170)
 * Other materials will be required for later projects, determined by your final project ideas
 * A physical sketch book or notebook for this class and writing instrument, in which to take notes, sketch and to record ideas and concepts.
 *	A [Process Site](Process_Site.md) for this class and ONLY for this class. See the link for more details and a how-to.
