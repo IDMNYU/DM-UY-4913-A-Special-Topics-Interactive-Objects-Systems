@@ -10,7 +10,7 @@ Course repo for NYU Tandon's IDM Program's Interactive Objects &amp; Systems
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email: Katherine.Bennett@nyu.edu**
 * **Office: 2MTC MAGNET 881**
-* **Office Hours: Mondays 16:00 - 17:30  Thursday 16:30 - 18:00, or by appointment (send me a slack Direct Message)  
+* **Office Hours: Mondays 16:00 - 17:30  Thursday 16:30 - 18:00, or by appointment (send me a slack Direct Message)** 
 * **[Slack Site for the class](https://ios-sp18.slack.com/)** 
 
 ## Interactive Objects & Systems
@@ -148,6 +148,7 @@ Students will evaluate their own progressed in a course in three ways: 1) A cour
 * [Physical Computing Kit with the Arduino](https://www.adafruit.com/wishlists?wid=409877) 
 * Other materials will be required for later projects, determined by your final project ideas
 * A physical sketch book or notebook for this class and writing instrument, in which to take notes, sketch and to record ideas and concepts.
+*	A [Process Site](Process_Site.md) for this class and ONLY for this class. See the link for more details and a how-to.
 
 ### Contacting Me
 [Slack](https://ios-sp18.slack.com/) Direct Message is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
@@ -167,7 +168,7 @@ Course material missed is your own responsibility to cover, make-up and address.
 
 • Work is still due on due dates, regardless of whether you are in class or not.
 
-• Contact me in advance if you will not be in class. ([Slack]() Direct message is preferred). Demonstrate time management, communication and respect.
+• Contact me in advance if you will not be in class. ([Slack](https://ios-sp18.slack.com/) Direct message is preferred). Demonstrate time management, communication and respect.
 
 • Be on time! Lateness will affect your grade. For every 15 minutes you are late, your participation grade drops.
 
@@ -212,6 +213,22 @@ Do the follow these steps to setup each assignment on Github:
 	* 6. Refresh your browser page of your repo. You should now see your code and files up on your repo
 
 	* 7. As you continue to work on this project, save the code on your desktop, in the folder created in step 0, and have sinced moved to be within the folder created at step 2. After saving each work session's progress, re-visit the Github desktop app to push the changes to your Github repo online. Make sure to fill out the summary and description notes. Do NOT and I repeat, DO NOT, make a new folder within this folder with the weeks editions. IE, you should not have "Week 1 work", "week 2 work", etc. Github tracks your changes and keeps them in history. It's version control! Yay!
+
+### Process Site & GitHub
+
+Creating anything involves a series of steps. Often, we think of these steps as a straight line. Many times we (think we) can go on auto-pilot after the first few step and coast to the finish. This is not the case when working with these mediums. You will constantly be confronted with challenges. In the process of resolving those challenges you'll be faced with opportunites to grow, expand and discover along side paths. These side paths are what enrich your projects to be engaging and meanful.
+
+Work in this class moves beyond the simple, "get it working" to "how can we tweak this and make it better". You must move through and work out technical challenges to get to this point.
+
+Reviewing our process through documentation, allows us to reflect and to gather thoughts as to what our next step should be in our process. Research gives us new insight. Drawing and sketching helps articulate our thoughts. We can translate these ideas to interactive systems using code and various forms of media.
+
+You must have of evidence and collection of your ideas, research, and process (including steps and action). This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes and images during workshops and demos. 
+
+Your [Process Site](Process_Site.md) is where all of this information goes, along with reflections, context and dialogue. If you're Process site is thin, your work is thin and needs more energy into your process.
+
+Your Process site must have good, clear, good resolution documentation. Images and links of what inspires you. Links to media. Sketches, Drawings. System diagrams. Code, prototypes, installations, interfaces, user experience. Everything should be making an appearance on your Process Site.
+
+Github is where your code lives. A link to your Github must appear on your [Process Site](Process_Site.md).
 
 ### Educational Accessibility Statement
 
