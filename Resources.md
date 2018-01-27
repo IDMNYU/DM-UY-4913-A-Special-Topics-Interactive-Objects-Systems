@@ -35,7 +35,7 @@ You can access NYU Tandon’s Bern Dibner Library here: http://library.poly.edu/
 ### Vendors + Suppliers
 *	Spark Fun - http://www.sparkfun.com
 *	Ada Fruit - http://www.adafruit.com/
-*	Jameco - http://www.adafruit.com/
+*	Jameco - https://www.jameco.com/
 *	All Electronics - http://www.allelectronics.com/
 *	Digikey - http://www.digikey.com/
 *	Electronic Goldmine - http://www.goldmine-elec.com

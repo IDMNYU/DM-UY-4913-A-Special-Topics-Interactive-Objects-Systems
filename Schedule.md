@@ -13,7 +13,7 @@
 
 * Read: Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer (Slack Resources Channel)
 
-* Acquire your kits
+* Acquire your kits + something to store them in.
 
 * Familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task.
 
@@ -21,20 +21,24 @@
 
 * Module 1: Basic Circuits & Ohms Law
 * Module 2: DIY Switches
+* Bring the following to class next week: resistors, LED's conductive tape, clip leds, 9 volt battery, mini breadboard, jumper wires, 9 volt battery snap
 
 
 ### Week 2  February 1
-* Parts 101 Quiz
+
 * Discussion of readings assigned last week
 * Lab: Switches + Circuits
 
 
 ##### Homework
+* Familiarize yourself with all the parts in your supply kits and their roles. Be able to identify parts visually and know their role/task.
 * Complete Modules Breadboarding, Arduino, Programming, Outputs
 ## [E2: DIY Custom Switch](DIY_Switch.md)
+* Bring materials to class next week
 
 
 ### Week 3  February 8
+* Parts 101 Quiz
 * Lab: LED BlinkFest
 
 ##### Homework

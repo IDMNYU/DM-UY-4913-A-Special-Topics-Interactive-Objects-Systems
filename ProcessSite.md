@@ -34,7 +34,7 @@ With these benefits in mind, a major part of this course will be the creation an
 
 7. Create a menu. This is what we are going to use to organize all of your assignments and course submissions. 
 
-8. Create the following menu headings: Reflections, Max Challenges, Show and Tell, Project 1, Project 2, Final Project
+8. Create the following menu headings: Exercises, Final Project, Reflections
 
 9. Your site is created! Share your new URL (it's right there on the page titled "Done!") on our Slack channel. Look for the Process Site URL's channel. Join that channel and share your Process Site URL. 
 

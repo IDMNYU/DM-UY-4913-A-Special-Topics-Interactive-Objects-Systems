@@ -146,10 +146,13 @@ Students will evaluate their own progressed in a course in three ways: 1) A cour
 * Exploring Arduino: Tools and Techniques for Engineering Wizardry by Jeremy Blum (most recent edition)
 * Arduino Cookbook by Michael Margolis (most recent edition)
 * [Electronic Supplies](https://www.adafruit.com/wishlists?wid=455181) 
-* [Physical Computing Kit with the Arduino](https://www.amazon.com/Arduino-Ultimate-Starter-Module-Instruction/dp/B00HI0RYJK/ref=pd_lpo_vtph_147_tr_t_2?_encoding=UTF8&psc=1&refRID=513KK9W604XNSCBGKBMA)  Other sources include [this kit](https://www.adafruit.com/product/3588), or [this kit](https://www.adafruit.com/product/170)
+* [Physical Computing Kit with the Arduino Uno](https://www.adafruit.com/product/170). 
+	**Special Note**
+	If you get other kits such as [this one](https://store.arduino.cc/genuino-starter-kit) or this [one](https://www.adafruit.com/product/3588) or another one, please make sure that you have all of the required components based on [this kit](https://www.adafruit.com/product/170) and [this supply list](https://www.adafruit.com/wishlists?wid=455181). Special things to note are the types of transistors, relay, diode, sizes of capacitors, shift register, size range of potentiometers. You want to have a decent range of fixed resistors, 220 ohm - 10 kilohm.
+* I recommend some sort of box or oranizer to keep you sane. I love these [art bin boxes](https://www.artbin.com/zerust-anti-tarnish-medium-4-compartment-box-6944ag.aspx). And [this one](https://www.artbin.com/zerust-anti-tarnish-medium-6-compartment-box-6847ag.aspx). You can find them at Amazon or Dick Blick. Or tackle boxes work. Art Bin has a bunch. 
 * Other materials will be required for later projects, determined by your final project ideas
 * A physical sketch book or notebook for this class and writing instrument, in which to take notes, sketch and to record ideas and concepts.
-*	A [Process Site](Process_Site.md) for this class and ONLY for this class. See the link for more details and a how-to.
+*	A [Process Site](ProcessSite.md) for this class and ONLY for this class. See the link for more details and a how-to.
 
 ### Contacting Me
 [Slack](https://ios-sp18.slack.com/) Direct Message is the preferred initial contact. Otherwise you may email me (katherine.bennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
@@ -266,6 +269,8 @@ This includes copying code for other sources, using code from other sources with
 
 
 ## [Schedule](Schedule.md)
+
+## [Process Site](ProcessSite.md)
 
 ## [E1: Sensor Walk](Sensor_Walk.md)
 
