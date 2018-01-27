@@ -147,7 +147,11 @@ Students will evaluate their own progressed in a course in three ways: 1) A cour
 * Arduino Cookbook by Michael Margolis (most recent edition)
 * [Electronic Supplies](https://www.adafruit.com/wishlists?wid=455181) 
 * [Physical Computing Kit with the Arduino Uno](https://www.adafruit.com/product/170). 
+
+
 	**Special Note**
+
+
 	If you get other kits such as [this one](https://store.arduino.cc/genuino-starter-kit) or this [one](https://www.adafruit.com/product/3588) or another one, please make sure that you have all of the required components based on [this kit](https://www.adafruit.com/product/170) and [this supply list](https://www.adafruit.com/wishlists?wid=455181). Special things to note are the types of transistors, relay, diode, sizes of capacitors, shift register, size range of potentiometers. You want to have a decent range of fixed resistors, 220 ohm - 10 kilohm.
 * I recommend some sort of box or oranizer to keep you sane. I love these [art bin boxes](https://www.artbin.com/zerust-anti-tarnish-medium-4-compartment-box-6944ag.aspx). And [this one](https://www.artbin.com/zerust-anti-tarnish-medium-6-compartment-box-6847ag.aspx). You can find them at Amazon or Dick Blick. Or tackle boxes work. Art Bin has a bunch. 
 * Other materials will be required for later projects, determined by your final project ideas
