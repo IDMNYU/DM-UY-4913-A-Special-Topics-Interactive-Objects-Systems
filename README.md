@@ -1,10 +1,10 @@
-##### DM-GY-4913-A-Special-Topics-Interactive-Objects-Systems
+##### DM-UY-4913-A-Special-Topics-Interactive-Objects-Systems
 
 Course repo for NYU Tandon's IDM Program's Interactive Objects &amp; Systems
 
 # Interactive Objects & Systems
 
-* **DM-GY 4913-A Special Topics: Interactive Objects & Systems**
+* **DM-UY 4913-A Special Topics: Interactive Objects & Systems**
 * **Thursdays 18:30pm – 22:10pm**
 * **2 MetroTech Room 811**
 * **Katherine Bennett, Visiting Assistant Professor**
