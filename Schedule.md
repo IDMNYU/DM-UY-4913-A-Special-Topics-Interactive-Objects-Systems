@@ -19,8 +19,9 @@
 
 * [E1: Sensor Walk](Sensor_Walk.md)
 
-* Module 1: Basic Circuits & Ohms Law
-* Module 2: DIY Switches
+* Read:  Physical Computing - Introduction - Chapter 1 (Found on Slack Resources)
+* Read: Make Electronics - IX (Preface) - Chapter 1. 
+* Be familiar with Ohms law, basic circuits, resistance, voltage and current; Parallel and series circuits
 * Bring the following to class next week: resistors, LED's conductive tape, clip leds, 9 volt battery, mini breadboard, jumper wires, 9 volt battery snap
 
 
@@ -32,9 +33,13 @@
 
 ##### Homework
 * Familiarize yourself with all the parts in your supply kits and their roles. Be able to identify parts visually and know their role/task.
-* Complete Modules Breadboarding, Arduino, Programming, Outputs
-## [E2: DIY Custom Switch](DIY_Switch.md)
 * Bring materials to class next week
+* Read: Make Electronics: Page 39 - 54 (Part of Chapter 2)
+* Review: Physical Computing - Introduction - Chapter 1; Make Electronics - IX (Preface) - p 54.
+* Read: Exploring Arduino - Chapter 1-2
+* Read: Programming Basics - Chapter 2 (Slack Resources)
+* [E2: DIY Custom Switch](DIY_Switch.md)
+
 
 
 ### Week 3  February 8
@@ -42,7 +47,7 @@
 * Lab: LED BlinkFest
 
 ##### Homework
-* Complete Modules Digital Inputs I - Analog Inputs II
+* Read: Exploring Arduino - Chapter 3
 * [E3: Fantasy Device](Fantasy_Device.md)
 
 
@@ -50,7 +55,7 @@
 * Lab: Sensor Demo
 
 ##### Homework
-* Complete Modules DC Motors - Servo Motors
+* Read: Exploring Arduino - Chapter 4 
 * [E4: Cute & Unexpected Tricks](Cute_Unexpected_Tricks.md)
 
 
@@ -58,14 +63,15 @@
 * Lab: Demo + Critique E4
 
 ##### Homework
-* Complete Modules Voltage Regulators, Relays, Stepper Motors + H-Bridges
+* Read: Exploring Arduino - Chapter 4 
+* Read: Physical Computing - Chapter 8, 10 
 
 ### Week 6  March 1
 * Lab: E5: Motor Control
 * Discuss Fortune Telling
 
 ##### Homework
-* Complete Modules Working with External Libraries, Shift Registers, Managing Multiple Inputs and Outputs, Working with noisy data, I2C communications, SPI Communications
+* Read: Exploring Arduino - Chapter 7, 10
 
 * [E6: Fortune Telling](Fortune_Telling.md)
 
@@ -75,7 +81,7 @@
 
 
 #### Homework
-* Module: catch-up
+* Read: Exploring Arduino - Chapter 8-9
 * [E6: Fortune Telling](Fortune_Telling.md)
 
 
@@ -85,7 +91,7 @@
 ### Week 8  March 22
 * Lab E6: Fortune Telling Critique 
 * Discuss Final Project
-* Discuss E:X - Complete one module from the following sequence: Moving circuits off breadboards to a permanent home, XBee Radios, Data Logging, Connecting your Arduino’s to the Internet. Then, working with a partner, create a mini interactive system object, which utilizes the concepts discussed in that module. Prepare a mini presentation to describe your process and the take-aways.
+* Discuss E:X - Complete one module from the following sequence: Moving circuits off breadboards to a permanent home, XBee Radios (ch 11), Data Logging (ch 13), Connecting your Arduino’s to the Internet (ch 14). Then, working with a partner, create a mini interactive system object, which utilizes the concepts discussed in that module. Prepare a mini presentation to describe your process and the take-aways.
 
 ##### Homework
 
