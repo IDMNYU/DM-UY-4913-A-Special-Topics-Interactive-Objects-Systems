@@ -4,7 +4,7 @@ Sketch and Design 5 different custom switches using found materials, such as pap
 
 One circuit must be a parallel circuit. The other a series circuit. It's up to you how many LED's and resistors that you want to use. (Remember and utilize Ohm's Law, in order to calculate the proper resistors.)
 
-Think of the gesture used to engage the switch. I'm looking for you to go beyond the typical and obvious press switch. The more creative, the better.
+Think of the gesture used to engage the switch. I'm looking for you to go beyond the typical and obvious press switch. The more creative, the better. Think of all the things our hands can do. Think of the ways a hand can manipulate and engage with an object. How can your hand or body manipulate the object to engage/trigger the switch? 
  
 ### Requirements: 
 
