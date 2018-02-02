@@ -232,11 +232,11 @@ Reviewing our process through documentation, allows us to reflect and to gather 
 
 You must have of evidence and collection of your ideas, research, and process (including steps and action). This is imperative. You must be organized and be able to show the development of your ideas and concepts. Also, you’ll need to be taking notes and images during workshops and demos. 
 
-Your [Process Site](Process_Site.md) is where all of this information goes, along with reflections, context and dialogue. If you're Process site is thin, your work is thin and needs more energy into your process.
+Your [Process Site](ProcessSite.md) is where all of this information goes, along with reflections, context and dialogue. If you're Process site is thin, your work is thin and needs more energy into your process.
 
 Your Process site must have good, clear, good resolution documentation. Images and links of what inspires you. Links to media. Sketches, Drawings. System diagrams. Code, prototypes, installations, interfaces, user experience. Everything should be making an appearance on your Process Site.
 
-Github is where your code lives. A link to your Github must appear on your [Process Site](Process_Site.md).
+Github is where your code lives. A link to your Github must appear on your [Process Site](ProcessSite.md).
 
 ### Educational Accessibility Statement
 

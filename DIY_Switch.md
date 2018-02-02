@@ -28,3 +28,10 @@ Think of the gesture used to engage the switch. I'm looking for you to go beyond
 [Series & Parallel Tutorial](https://learn.sparkfun.com/tutorials/series-and-parallel-circuits)
 
 [Ohms Law](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
+
+
+### Extra notes:
+
+* If you are using the colored wires, make sure to [strip back the plastic sheathing](https://www.familyhandyman.com/electrical/wiring/stripping-wire/view-all/) to access the conductive wire inside
+
+* (Clip leads are your friends.)[https://www.adafruit.com/product/321] They are on the supply listing
