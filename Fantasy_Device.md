@@ -1,8 +1,10 @@
 ## Fantasy Device
 
-Create a mock-up design for a fantasy device.  Use one of the storyboard templates provided to describe how this device looks and functions. This device can be simple or complex but should not be a simple add-on to an existing device. Think of the behaviors and capabilities that are needed. Be detailed. Let your imagination run wild. You will not have to make this device a reality.
+Create a mock-up design for a fantasy device.  Use one of the storyboard templates provided to describe how this device looks and functions. This device can be simple or complex but should not be a simple add-on to an existing device. Think of the behaviors and capabilities that are needed. Be detailed. *Let your imagination run wild.* You will not have to make this device a reality.
 
 This must be crafted and well considered in the execution of the presented materials.
+
+Watch some of the inventions from [Wallace and Gromit](https://www.youtube.com/watch?v=_6g8WGpMstI)
 
 ### Requirements: 
 *	Sketch what it looks like
