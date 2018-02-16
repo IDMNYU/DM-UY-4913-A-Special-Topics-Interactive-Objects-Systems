@@ -8,6 +8,8 @@ Your project must respond to a physical action or series of actions a person tak
 
 Craftsmanship should have attention paid to it.  While this project may not have perfect craftsmanship, it should be well considered.
 
+I am also looking for a great sophistication in code. Use variables. Create a custom function that calls the series of actions, based on an input state. Create a custom function that passes parameters. I'm looking for excellent programming, or a solid attempt towards that endeavour.
+
 ### Requirements:
 *	Perfect circuit competence – appropriate resistors, electrical interfaces, wiring, colors, power supplies
 *	A custom fabricated switch
