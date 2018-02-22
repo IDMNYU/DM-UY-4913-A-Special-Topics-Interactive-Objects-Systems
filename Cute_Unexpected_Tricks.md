@@ -12,11 +12,11 @@ I am also looking for a great sophistication in code. Use variables. Create a cu
 
 ### Requirements:
 *	Perfect circuit competence – appropriate resistors, electrical interfaces, wiring, colors, power supplies
-*	A custom fabricated switch
+*	<s>A custom fabricated switch </s>
 *	Competent ORIGINAL code – commented out, utilization of serial print statements
 *	3-4 Drawings/sketches of your project.  
 *	Pseudo code for all of the code
 *	Your breadboard circuit schematic, created using Fritzing: http://fritzing.org/download/
-*	Documentation of the construction process and final, including the circuit in a PDF – 5-6 annotated images
+*	Documentation of the construction process and final, including the circuit – 5-6 annotated images
 *	Create a short documentation video showing the input and output, as well as documenting the interaction and environment. Make sure the shots are appropriately lit throughout, clear and crisp. Make sure the subject fits the frame. Total duration no longer than 1 minute.
 *	Submit sketches, code (github and process site), fritzing diagram, images and video to your Process site along with a brief summary and reflection.

@@ -10,7 +10,7 @@ Course repo for NYU Tandon's IDM Program's Interactive Objects &amp; Systems
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email: Katherine.Bennett@nyu.edu**
 * **Office: 2MTC MAGNET 881**
-* **Office Hours: Mondays 16:00 - 17:30  Thursday 16:30 - 18:00, or by appointment (send me a slack Direct Message)** 
+* **Office Hours: Mondays 16:00 - 17:30 Tuesdays (but not on 2-27) 14:00 - 16:00 Thursday 16:30 - 17:30, or by appointment (send me a slack Direct Message)** 
 * **[Slack Site for the class](https://ios-sp18.slack.com/)** 
 
 ## Interactive Objects & Systems
