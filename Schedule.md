@@ -64,7 +64,8 @@
 
 ##### Homework
 * Read: Exploring Arduino - Chapter 4 
-* Read: Physical Computing - Chapter 8, 10 
+* Read: Physical Computing - Chapter 8, 10
+* Complete the Start-Up challenge (individually) using edge detection (including rising edge, falling edge) and debounce techniques. 
 
 ### Week 6  March 1
 * Lab: E5: Motor Control
