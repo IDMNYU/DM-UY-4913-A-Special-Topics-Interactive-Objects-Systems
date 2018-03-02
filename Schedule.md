@@ -73,8 +73,9 @@
 
 ##### Homework
 * Read: Exploring Arduino - Chapter 7, 10
+* [E5: Motor Control](Motor_Control.md)
 
-* [E6: Fortune Telling](Fortune_Telling.md)
+* Brain storm + map/sketch/ideate: [E6: Fortune Telling](Fortune_Telling.md)
 
 
 ### Week 7 March 8
