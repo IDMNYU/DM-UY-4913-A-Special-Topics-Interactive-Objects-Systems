@@ -79,6 +79,7 @@
 
 
 ### Week 7 March 8
+* Lab: Motors II
 * Lab: Fortune Telling
 
 
