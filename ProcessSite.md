@@ -49,7 +49,11 @@ Others in the class will also be reviewing your site. Future employers may also 
 
 * What it is that you are posting? What is this code? What does it do? What are your ideas? Why are they important? What's the background context to situation this? 
 
-* What are other related artists, designers, projects, firms, expos, movements, etc to this?
+* Clear images of your circuit, schematics, Fritizing diagrams
+
+* code
+
+* video of your circuit working, showing input and output
 
 * What is the next step? What is the current issue? How can this be resolved? How can this improve? When will these things next happen? What resources do you need to identify and locate in order to assist you?
 
