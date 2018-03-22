@@ -94,7 +94,7 @@
 ### Week 8  March 22
 * Lab E6: Fortune Telling Critique 
 * Discuss Final Project
-* Discuss E:X - Complete one module from the following sequence: Moving circuits off breadboards to a permanent home, XBee Radios (ch 11), Data Logging (ch 13), Connecting your Arduino’s to the Internet (ch 14). Then, working with a partner, create a mini interactive system object, which utilizes the concepts discussed in that module. Prepare a mini presentation to describe your process and the take-aways.
+* Discuss E:[X System](X_System.md)
 
 ##### Homework
 
@@ -103,11 +103,11 @@
 
 
 ### Week 9  March 29
-* Lab: E:X
+* Lab: E:[X System](X_System.md)
 
 ##### Homework
 * [Complete on E7: Final Project Roundtable by April 2nd 10am](Final_Project_Roundtable.md)
-* Complete E: X
+* Complete E: [X System](X_System.md)
 
 ### Week 10  April 5
 * Lab: E: X Presentations
