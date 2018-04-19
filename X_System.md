@@ -25,6 +25,19 @@ Document your process, so as to educate another. Your documentation must be clea
 Follow the guides and resources below to embark upon your process. You will have to research and find supporting links, visuals and information. Document these as well as your own process in your documentation presentation. Prepare a mini presentation to describe your process and the take-aways.
 
 
+### Special note
+
+ Technology changes all around us at a very rapid pace. We constantly need to review documentation, forums and put in help tickets. There’s nothing wrong with that. I’m looking to see what processes you develop, in resolving the issues you encounter, and persevering.
+
+I expect to see ALL of you demonstrate these skills and to document your process on your Process site and to present this in your presentation.
+
+This is a group project. I expect you to encounter issues. I expect you to document theses issues, seek out resources, put in help tickets, post to forumns, research the documentation (from the provider’s site). Continually post to your process site with screen shots and links. 
+
+You have to look *VERY CLOSELY* at *ALL* documentation, software versions, library versions, etc etc, schematics, assmebly diagrams.  All of this, is part of this assignment!
+
+
+
+
 ### Requirements
 
 * Appropriate input circuits: pull up/down resistors, properly wired sensors

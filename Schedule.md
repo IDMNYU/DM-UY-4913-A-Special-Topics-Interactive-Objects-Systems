@@ -148,6 +148,6 @@
 * [Final Project: Resolve Issues + Tweak](Final_Project.md)
 
 
-### Week 15  May 7  **EXAMS**
+### Week 15  May 10  **EXAMS**
 Final Critique of Final Project
 
