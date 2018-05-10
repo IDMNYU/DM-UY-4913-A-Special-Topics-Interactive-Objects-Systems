@@ -60,6 +60,7 @@ void deviation() {
     deviationList[i] = list[i] - regAverage;
     //calculate the average deviation
     averageDeviation += deviationList[i];
+    // get that average out
   }
 
   // discard any that have too large of a deviation
